@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">transjai</string>
+
+
+    <string name="notification_channel_id">default</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">110358086300837</string>
+    <string name="fb_login_protocol_scheme">f3b029666709811fa5f9f054b1e5cbde</string>
+    <string name="title_activity_sus">Sus</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

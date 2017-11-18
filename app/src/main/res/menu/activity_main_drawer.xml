@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@mipmap/ic_credit_card_black_24dp"
+            android:title="Credit / Debit Card" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@mipmap/promotion"
+            android:title="โปรโมชัน" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@mipmap/history"
+            android:title="ประวัติการสั่ง" />
+        <item
+            android:id="@+id/nav_favoreites"
+            android:icon="@mipmap/heart"
+            android:title="คนขับที่ชอบ" />
+        <item
+            android:id="@+id/sigout"
+            android:icon="@mipmap/logout"
+            android:title="ออกจากระบบ" />
+    </group>
+
+
+
+</menu>

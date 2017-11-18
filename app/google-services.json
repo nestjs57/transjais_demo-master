@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "436753762146",
+    "firebase_url": "https://transjai-615b5.firebaseio.com",
+    "project_id": "transjai-615b5",
+    "storage_bucket": "transjai-615b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436753762146:android:83327e3bfc1e9ddf",
+        "android_client_info": {
+          "package_name": "com.transjai.transjai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436753762146-8vf3c69arktaik26mff7dpnbp9h26euj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.transjai.transjai",
+            "certificate_hash": "1efa7be99ae6dfde838b46a5bc4bd5b05cf215c6"
+          }
+        },
+        {
+          "client_id": "436753762146-5nil4bip7g1i8ovmqhd7kqs8bsp8ad80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPZ2J17IwtHGS92Kr5J5HsO7qPGAk3Izo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436753762146-5nil4bip7g1i8ovmqhd7kqs8bsp8ad80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
